@@ -11,9 +11,6 @@ This project is a Diwali sales analysis that aims to analyze and visualize sales
 - [Data](#data)
 - [Analysis](#analysis)
 - [Dependencies](#dependencies)
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data
 
